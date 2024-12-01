@@ -1,0 +1,15 @@
+{
+  "Id": "SnailUSB.FallFishing",
+  "AssemblyPath": null,
+  "PackPath": "SnailUSB.FallFishing.pck",
+  "Dependencies": [
+    "Sulayre.Lure"
+  ],
+  "Metadata": {
+    "Name": "FallFishing",
+    "Author": "SnailUSB",
+    "Version": "1.0.4",
+    "Description": "A Fall themed map that has everything from normal webfishing, and more",
+    "Homepage": "https://github.com/SnailUsbs/Webfishing-Fall-Map"
+  }
+}
