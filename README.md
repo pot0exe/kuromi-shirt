@@ -1,1 +1,1 @@
-[Kuromi_README (1).md](https://github.com/user-attachments/files/17997159/Kuromi_README.1.md)
+[Kuromi_README.md](https://github.com/user-attachments/files/17997187/Kuromi_README.md)
